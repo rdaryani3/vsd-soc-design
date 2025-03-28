@@ -5,7 +5,7 @@
 ### SKY_L1 - Introduction to QFN-48 Package, chip, pads, core, die and IPs
 
 - A typical package looks like:
-  ![alt text]([https://github.com//image.jpg?raw=true](https://github.com/rdaryani3/vsd-soc-design/commit/1ff053804ed202979a2d62d2759b20413380114b))
+  ![package](https://github.com/rdaryani3/vsd-soc-design/images/package.png)
 
 
 
