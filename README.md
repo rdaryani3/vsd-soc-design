@@ -8,7 +8,7 @@
  ![Package Image](images/package.png)
 
 - Typical components of the core are:
- ![Core components](images/basic_chip)
+ ![Core components](images/basic_chip.png)
 
   
 
