@@ -10,6 +10,16 @@
 - Typical components of the core are:
  ![Core components](images/basic_chip.png)
 
+
+### SKY_L2 - Introduction to RISC-V
+
+1. A-C program running on a machine(layout/hardware) Follows the following steps of execution.
+   - C program --- Assembly language --- Machine Language(binary logic) --- Layout --- output
+2. Another interface existing between the RISC-V and layout is the HDL.
+   ![risc-rtl-layout](images/risc-layout.png)
+
+
+
   
 
 
