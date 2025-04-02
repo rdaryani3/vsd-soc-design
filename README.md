@@ -26,7 +26,16 @@
 
 ## SKY130_D1_SK2 - SoC design and OpenLANE
 
+
 ### SKY_L1 - Introduction to all components of open-source digital asic design
+
+The open source ASIC design comprises of:
+
+ ![Open_Source](images/open_source.png)
+
+Market share of the 130nm technology:
+
+ ![IC technology Distribution](images/130nm.png)
 
 
   
