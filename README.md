@@ -37,6 +37,13 @@ Market share of the 130nm technology:
 
  ![IC technology Distribution](images/130nm.png)
 
+ Is 130nm fast?
+  -  Intel P-4EE reported to 327MHz post-layout clock  for a single cycle RV32i and >1GHz for pipelined version
+
+
+A simplified RTL design flow can be shown as:
+
+![RTL_Design_Flow](images/design_flow.png)
 
   
 
