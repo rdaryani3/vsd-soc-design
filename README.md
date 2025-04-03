@@ -57,6 +57,8 @@ A simplified RTL design flow can be shown as:
 
 
 ### SKY_L4 - Introduction to OpenLANE detailed ASIC design flow
+
+![OpenLane_Flow](images/openlane_asicflow.png)
   
 
 
