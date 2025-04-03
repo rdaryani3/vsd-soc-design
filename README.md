@@ -40,11 +40,23 @@ Market share of the 130nm technology:
  Is 130nm fast?
   -  Intel P-4EE reported to 327MHz post-layout clock  for a single cycle RV32i and >1GHz for pipelined version
 
-
+### SKY_L2 - Simplified RTL2GDS flow
 A simplified RTL design flow can be shown as:
 
 ![RTL_Design_Flow](images/design_flow.png)
 
+
+
+### SKY_L3 - Introduction to OpenLANE and Strive chipsets
+
+* OpenLane is tuned for SkyWater130nm OpenPDK
+- Can be used to harden Macros and Chips
+- Two modes of operation: Autonomous or Interactive
+- Explores for best set of flow configurations
+- 43 designs with best configurations avaiable
+
+
+### SKY_L4 - Introduction to OpenLANE detailed ASIC design flow
   
 
 
